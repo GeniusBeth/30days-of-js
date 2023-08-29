@@ -1,3 +1,4 @@
+
 // number 1
 const age = +(prompt("Enter your age"))
 console.log(age>=18?`You are old enough to drive`: `You are left with ${18-age} years to drive`)
@@ -51,4 +52,3 @@ switch(true){
     default:
     console.log(`${num} is an odd number`)
 }
-
